@@ -11,7 +11,7 @@
 <h2 align="center">🌟 ¡Bienvenido/a a mi perfil!</h2>
 
 <p align="center" style="font-size:1.1em">
-  Soy <b>A. David</b> (Admaal), desarrollador web fullstack recién graduado de <b>DAW</b> y residente en <b>Granada</b>.<br>
+  Soy <b>A. David</b> (Admaal), desarrollador web fullstack recién graduado de <b>DAW.</b><br>
   <em>
     Me apasiona crear soluciones digitales, aprender cada día y construir experiencias web de calidad.<br>
     Busco formar parte de un equipo donde pueda crecer, aportar y seguir soñando en código.
