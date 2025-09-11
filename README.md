@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=29b6f6&height=120&section=header&text=Admaaldev%20%7C%20Desarrollador%20Web%20Fullstack%20%20&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/A.David%20%7C%20Desarrollador%20Web%20Fullstack-00BFA6?style=for-the-badge&logo=devdotto&logoColor=white" alt="Desarrollador Web Fullstack Badge" />
-</p>
-
 ---
 
 <h2 align="center">🌟 ¡Bienvenido/a a mi perfil!</h2>
