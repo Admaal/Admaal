@@ -46,8 +46,16 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Admaal/Habitat-mvc-360"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Admaal&repo=FreqOn&theme=radical&hide_border=true"/></a></td>
-    <td align="center"><a href="https://github.com/Admaal/HeroHub-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Admaal&repo=Habitat-mvc-360&theme=radical&hide_border=true"/></a></td>
+    <td align="center">
+      <a href="https://github.com/Admaal/Habitat-mvc-360">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Admaal&repo=Habitat-mvc-360&theme=radical&hide_border=true"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Admaal/HeroHub-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Admaal&repo=HeroHub-app&theme=radical&hide_border=true"/>
+      </a>
+    </td>
   </tr>
 </table>
 
