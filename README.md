@@ -1,93 +1,98 @@
+<div align="center">
+  <h1 align="center">A. David (Admaal)</h1>
+  <h3 align="center">Frontend & Cloud Architecture Developer</h3>
+  
+  <p align="center">
+    Building secure, real-time, and scalable ecosystems.<br>
+    Dividing my time between Toledo and Peligros, translating real-world logistics into high-performance digital solutions.
+  </p>
+
+  <br>
+
+  <a href="mailto:admaal96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/admaal">
+    <img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Admaal">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br><br>
+<hr>
+<br>
+
+## 🛠 Tech Stack & Infrastructure
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=29b6f6&height=120&section=header&text=Admaaldev%20%7C%20Desarrollador%20Web%20Fullstack%20%20&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
-</p>
-
----
-
-<h2 align="center">🌟 ¡Bienvenido/a a mi perfil!</h2>
-
-<p align="center" style="font-size:1.1em">
-  Soy <b>A. David</b> (Admaal), desarrollador web fullstack recién graduado de <b>DAW.</b><br>
-  <em>
-    Me apasiona crear soluciones digitales, aprender cada día y construir experiencias web de calidad.<br>
-    Busco formar parte de un equipo donde pueda crecer, aportar y seguir soñando en código.
-  </em>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Gif"/>
-</p>
-
----
-
-<h2 align="center">⚡ Stack Tecnológico</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,nodejs,php,mysql,git,gulp" alt="Stack Tecnológico" />
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,nodejs,supabase,postgres,cloudflare,redis,git" alt="Tech Stack" />
 </p>
 
 <div align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="SASS" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Gulp" src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=node.js&logoColor=339933"/>
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-1A1A1A?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-1A1A1A?style=for-the-badge&logo=cloudflare&logoColor=F38020"/>
+  <img alt="Redis" src="https://img.shields.io/badge/Upstash_Redis-1A1A1A?style=for-the-badge&logo=redis&logoColor=DC382D"/>
 </div>
 
----
+<br><br>
+<hr>
+<br>
 
-<h2 align="center">✨ Proyectos Destacados</h2>
+## 🚀 Featured Architecture
 
+<br>
+
+### 🛒 [Nexus Commerce & Fleet Telemetry](https://github.com/Admaal/nexus-commerce)
+**Role:** Full-Stack & Cloud Architect  
+**Stack:** React, Supabase (RLS & Anonymous Auth), Cloudflare Workers, Realtime Websockets.
+> A secure multi-tenant e-commerce platform integrated with an isolated real-time fleet tracking system. Engineered with strict row-level security and a role-based UI to handle concurrent asynchronous logistics.
+
+<br>
+
+### 🛡️ SaaS API Gateway & Rate Limiter (WIP)
+**Role:** Cloud Infrastructure Developer  
+**Stack:** Upstash Redis, Cloudflare Workers, Vercel.
+> A serverless B2B infrastructure project simulating a SaaS billing model. Implements low-latency edge rate limiting using Redis to protect backend services from DDoS attacks and usage abuse.
+
+*(Nota: Mantengo tus repositorios antiguos aquí por si quieres destacarlos, pero te recomiendo priorizar los nuevos)*
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/Admaal/Habitat-mvc-360">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Admaal&repo=Habitat-mvc-360&theme=radical&hide_border=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Admaal&repo=Habitat-mvc-360&theme=transparent&hide_border=true&title_color=1A1A1A&text_color=4B5563&icon_color=1A1A1A"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Admaal/HeroHub-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Admaal&repo=HeroHub-app&theme=radical&hide_border=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Admaal&repo=HeroHub-app&theme=transparent&hide_border=true&title_color=1A1A1A&text_color=4B5563&icon_color=1A1A1A"/>
       </a>
     </td>
   </tr>
 </table>
 
----
+<br><br>
+<hr>
+<br>
 
-<h2 align="center">📊 Mi actividad y estadísticas</h2>
+## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Admaal&style=flat-square&color=00BFA6" alt="Admaal profile views" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Admaal&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Admaal&show_icons=true&hide_border=true&bg_color=00000000&title_color=1A1A1A&icon_color=1A1A1A&text_color=4B5563" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Admaal&hide_border=true&background=00000000&ring=1A1A1A&fire=1A1A1A&currStreakNum=1A1A1A&currStreakLabel=4B5563&sideNums=1A1A1A&sideLabels=4B5563&dates=4B5563" width="48%" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Admaal&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="Trophies" />
-</p>
+<br><br>
+<hr>
+<br>
 
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Admaal&layout=pie&theme=radical&hide_border=true" alt="Top Languages Pie" />
-</p>
-
----
-
-<h2 align="center">🌍 ¿Te gustaría colaborar?</h2>
-
-<p align="center">
-  <b>¡Estoy buscando trabajo y abierto a colaborar en nuevos proyectos!</b><br>
-  Si buscas a alguien con <b>ganas de aprender, aportar y crecer</b>, no dudes en escribirme.<br>
-  <br>
-  <a href="mailto:admaal96@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/admaal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Admaal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<div align="center">
+  <p><i>"Designing systems that respect both the developer experience and the user's data integrity."</i></p>
+</div>
