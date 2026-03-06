@@ -69,9 +69,9 @@
 ## 📊 Performance & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Admaal&show_icons=true&hide_border=true&bg_color=00000000&title_color=1A1A1A&icon_color=1A1A1A&text_color=4B5563&rank_icon=github" width="400" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Admaal&hide_border=true&background=00000000&ring=1A1A1A&fire=1A1A1A&currStreakNum=1A1A1A&currStreakLabel=4B5563&sideNums=1A1A1A&sideLabels=4B5563&dates=4B5563" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Admaal&show_icons=true&theme=vincere&hide_border=true&title_color=1A1A1A&icon_color=1A1A1A&text_color=4B5563" width="400" alt="Admaal's GitHub stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Admaal&theme=vincere&hide_border=true&ring=1A1A1A&fire=1A1A1A&currStreakNum=1A1A1A&currStreakLabel=4B5563&sideNums=1A1A1A&sideLabels=4B5563&dates=4B5563" width="400" alt="Admaal's GitHub streak" />
 </div>
 
 <br><br>
