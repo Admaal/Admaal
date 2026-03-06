@@ -1,10 +1,10 @@
 <div align="center">
   <h1 align="center">A. David (Admaal)</h1>
-  <h3 align="center">Frontend & Cloud Architecture Developer</h3>
+  <h3 align="center">Fullstack & Cloud Architecture Developer</h3>
   
   <p align="center">
     Building secure, real-time, and scalable ecosystems.<br>
-    Dividing my time between Toledo and Peligros, translating real-world logistics into high-performance digital solutions.
+    Specializing in backend integrations, API development, and modern Cloud infrastructures.
   </p>
 
   <br>
@@ -60,7 +60,6 @@
 **Stack:** Upstash Redis, Cloudflare Workers, Vercel.
 > A serverless B2B infrastructure project simulating a SaaS billing model. Implements low-latency edge rate limiting using Redis to protect backend services from DDoS attacks and usage abuse.
 
-*(Nota: Mantengo tus repositorios antiguos aquí por si quieres destacarlos, pero te recomiendo priorizar los nuevos)*
 <table>
   <tr>
     <td align="center">
